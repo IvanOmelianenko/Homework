@@ -1,6 +1,7 @@
 public class Main {
     public static int integer = 5;
     public static float floating = 8.45f;
+    public static boolean bool = false;
     public static void main(String[] args) {
         // Data types
         byte newByte = 90;
@@ -77,6 +78,7 @@ public class Main {
         System.out.println(intValue);
         System.out.println(integer);
         System.out.println(floating);
-
+        System.out.println(bool);
+// Comment for pullrequest
     }
 }
